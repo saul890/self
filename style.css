@@ -1,0 +1,29 @@
+
+.container{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+  }
+  
+  .image{
+      width: 100px;
+    transition: 0.1s;
+    transition-timing-function: ease;
+  }
+  .image:hover{
+      cursor: pointer;
+      width: 150px;
+  }
+  
+  #imageTwo{
+    display: none;
+    top: 50px;
+    left: 200px;
+  }
+  
+  #imageThree{
+    display: none;
+    top: 180px;
+    left: 50px;
+  }
