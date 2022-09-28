@@ -1,3 +1,8 @@
+body{
+  height: 500000px;
+  width: 500000px;
+}
+
 
 .container{
     position: absolute;
@@ -13,17 +18,27 @@
   }
   .image:hover{
       cursor: pointer;
-      width: 150px;
   }
   
   #imageTwo{
     display: none;
     top: 50px;
-    left: 200px;
+    left: 80px;
   }
   
   #imageThree{
     display: none;
-    top: 180px;
-    left: 50px;
+    top: 100px;
+    left: 160px;
+  }
+
+  #imageFour{
+    display: none;
+    top: 400px;
+    left: 160px;
+  }
+
+  #imageFive{
+    display: none;
+    left: 500px;
   }
