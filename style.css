@@ -257,38 +257,79 @@ body{
     left: 250px;
   }
 
-
-
-  #imageSix{
+  #image46{
     display: none;
-    left: 300px;
-    top: 190px;
+    top: 1050px;
+    left: 450px;
   }
 
-  #imageSeven{
+  #image47{
     display: none;
-    left: 400px;
-    top: 190px;
+    top: 1150px;
+    left: 100px;
   }
 
-
-  #imageEight{
+  #image48{
     display: none;
+    top: 750px;
+    left: 450px;
+  }
+  #image49{
+    display: none;
+    top: 1050px;
+    left: 750px;
+  }
+
+  #image50{
+    display: none;
+    top: 750px;
+    left: 450px;
+  }
+
+  #image51{
+    top: 50px;
     left: 500px;
-    top: 190px;
   }
 
-  #imageNine{
+  #image52{
     display: none;
-    left: 600px;
-    top: 190px;
+    top: 100px;
+    left: 10px;
   }
-
-  #imageTen{
+  #image53{
     display: none;
-    left: 6500px;
-    top: 190px;
-
+    top: 250px;
+    left: 150px;
+  }
+  #image54{
+    display: none;
+    top: 370px;
+    left: 75px;
+  }
+  #image55{
+    display: none;
+    top: 480px;
+    left: 200px;
+  }
+  #image56{
+    display: none;
+    top: 550px;
+    left: 20px;
+  }
+  #image57{
+    display: none;
+    top: 650px;
+    left: 150px;
+  }
+  #image58{
+    display: none;
+    top: 690px;
+    left: 355px;
+  }
+  #image59{
+    display: none;
+    top: 50px;
+    left: 500px;
   }
 
   .bigcont{
@@ -302,4 +343,26 @@ body{
     width: 300px;
     transition: 0.1s;
     transition-timing-function: ease;
+  }
+  .bigcont:hover{
+    cursor: pointer;
+  }
+
+  .bigger{
+    position: absolute;
+    background-color: black;
+    width: 600px;
+    height: 600px;
+  }
+  .biggerimage{
+    width: 600px;
+    transition: 0.1s;
+    transition-timing-function: ease;
+  }
+
+  .bigger:hover{
+    cursor: pointer;
+  }
+  .biggercont:hover{
+    cursor: pointer;
   }

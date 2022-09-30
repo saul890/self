@@ -48,6 +48,17 @@ const image42 = document.getElementById('image42');
 const image43 = document.getElementById('image43');
 const image44 = document.getElementById('image44');
 const image45 = document.getElementById('image45');
+const image46 = document.getElementById('image46');
+const image47 = document.getElementById('image47');
+const image48 = document.getElementById('image48');
+const image49 = document.getElementById('image49');
+const image50 = document.getElementById('image50');
+
+const image51 = document.getElementById('image51');
+const image52 = document.getElementById('image52');
+
+
+
 
 
 
@@ -139,11 +150,24 @@ image44.addEventListener('click', function onClick(event) {
   image45.style.display = 'block';
 });
 
+image45.addEventListener('click', function onClick(event) {
+  image46.style.display = 'block';
+});
 
+image46.addEventListener('click', function onClick(event) {
+  image47.style.display = 'block';
+});
+image47.addEventListener('click', function onClick(event) {
+  image48.style.display = 'block';
+});
 
+image48.addEventListener('click', function onClick(event) {
+  image49.style.display = 'block';
+});
 
-
-
+image49.addEventListener('click', function onClick(event) {
+  image50.style.display = 'block';
+});
 
 
 
@@ -157,4 +181,5 @@ imageSix.addEventListener('click', function onClick(event) {
   imageNine.style.display = 'block';
   imageTen.style.display = 'block';
 });
+
 
