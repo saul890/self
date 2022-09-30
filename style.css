@@ -1,6 +1,6 @@
 body{
-  height: 500000px;
-  width: 500000px;
+  height: 3660px;
+  width: 3660px;
 }
 
 
@@ -22,14 +22,10 @@ body{
   
   #imageTwo{
     display: none;
-    top: 50px;
-    left: 80px;
   }
   
   #imageThree{
     display: none;
-    top: 100px;
-    left: 160px;
   }
 
   #imageFour{
@@ -40,5 +36,270 @@ body{
 
   #imageFive{
     display: none;
+    top: 400px;
+    left: 260px;
+  }
+
+  #image6{
+    display: none;
+    top: 400px;
+    left: 360px;
+  }
+
+  #image7{
+    display: none;
+    top: 400px;
+    left: 460px;
+  }
+
+  #image8{
+    display: none;
+    top: 400px;
+    left: 560px;
+  }
+
+  #image9{
+    display: none;
+    top: 400px;
+    left: 660px;
+  }
+
+  #image10{
+    display: none;
+    top: 400px;
+    left: 760px;
+  }
+
+  #image11{
+    display: none;
+    top: 400px;
+    left: 860px;
+  }
+
+  #image12{
+    display: none;
+    top: 400px;
+    left: 960px;
+  }
+
+  #image13{
+    display: none;
+    top: 400px;
+    left: 1060px;
+  }
+
+  #image14{
+    display: none;
+    top: 400px;
+    left: 1160px;
+  }
+  #image15{
+    display: none;
+    top: 400px;
+    left: 1260px;
+  }
+  #image16{
+    display: none;
+    top: 400px;
+    left: 1360px;
+  }
+  #image17{
+    display: none;
+    top: 400px;
+    left: 1460px;
+  }
+  #image18{
+    display: none;
+    top: 400px;
+    left: 1560px;
+  }
+  #image19{
+    display: none;
+    top: 400px;
+    left: 1660px;
+  }
+  #image20{
+    display: none;
+    top: 400px;
+    left: 1760px;
+  }
+  #image21{
+    display: none;
+    top: 400px;
+    left: 1860px;
+  }
+  #image22{
+    display: none;
+    top: 400px;
+    left: 1960px;
+  }
+  #image23{
+    display: none;
+    top: 400px;
+    left: 2060px;
+  }
+  #image24{
+    display: none;
+    top: 400px;
+    left: 2160px;
+  }
+  #image25{
+    display: none;
+    top: 400px;
+    left: 2260px;
+  }
+
+  #image26{
+    display: none;
+    top: 400px;
+    left: 2360px;
+  }
+
+  #image27{
+    display: none;
+    top: 400px;
+    left: 2460px;
+  }
+
+  #image28{
+    display: none;
+    top: 400px;
+    left: 2560px;
+  }
+  #image29{
+    display: none;
+    top: 400px;
+    left: 2660px;
+  }
+  #image30{
+    display: none;
+    top: 400px;
+    left: 2760px;
+  }
+  #image31{
+    display: none;
+    top: 400px;
+    left: 2860px;
+  }
+  #image32{
+    display: none;
+    top: 400px;
+    left: 2960px;
+  }
+  #image33{
+    display: none;
+    top: 400px;
+    left: 3060px;
+  }
+  #image34{
+    display: none;
+    top: 400px;
+    left: 3160px;
+  }
+  #image35{
+    display: none;
+    top: 400px;
+    left: 3260px;
+  }
+  #image36{
+    display: none;
+    top: 400px;
+    left: 3360px;
+  }
+  #image37{
+    display: none;
+    top: 400px;
+    left: 3460px;
+  }
+  #image38{
+    display: none;
+    top: 400px;
+    left: 3560px;
+  }
+
+  #image39{
+    display: none;
+    top: 400px;
+    left: 3560px;
+  }
+
+  #image40{
+    display: none;
+    top: 600px;
+    left: 160px;
+  }
+
+  #image41{
+    display: none;
+    top: 700px;
+    left: 350px;
+  }
+  #image42{
+    display: none;
+    top: 650px;
     left: 500px;
+  }
+  #image43{
+    display: none;
+    top: 750px;
+    left: 750px;
+  }
+
+  #image44{
+    display: none;
+    top: 850px;
+    left: 600px;
+  }
+
+  #image45{
+    display: none;
+    top: 950px;
+    left: 250px;
+  }
+
+
+
+  #imageSix{
+    display: none;
+    left: 300px;
+    top: 190px;
+  }
+
+  #imageSeven{
+    display: none;
+    left: 400px;
+    top: 190px;
+  }
+
+
+  #imageEight{
+    display: none;
+    left: 500px;
+    top: 190px;
+  }
+
+  #imageNine{
+    display: none;
+    left: 600px;
+    top: 190px;
+  }
+
+  #imageTen{
+    display: none;
+    left: 6500px;
+    top: 190px;
+
+  }
+
+  .bigcont{
+    position: absolute;
+    background-color: black;
+    width: 300px;
+    height: 300px;
+  }
+
+  .bigimage{
+    width: 300px;
+    transition: 0.1s;
+    transition-timing-function: ease;
   }
