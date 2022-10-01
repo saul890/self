@@ -62,6 +62,7 @@ const image52 = document.getElementById('image52');
 
 
 
+
 imageOne.addEventListener('click', function onClick(event) {
   imageTwo.style.display = 'block';
 });
@@ -168,6 +169,7 @@ image48.addEventListener('click', function onClick(event) {
 image49.addEventListener('click', function onClick(event) {
   image50.style.display = 'block';
 });
+
 
 
 

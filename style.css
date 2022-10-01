@@ -290,6 +290,7 @@ body{
     top: 50px;
     left: 500px;
   }
+x
 
   #image52{
     display: none;
@@ -332,6 +333,98 @@ body{
     left: 500px;
   }
 
+  #image60{
+    top: 50px;
+    left:0px;
+  }
+  #image61{
+    top: 50px;
+    left: 100px;
+  }
+  #image62{
+    top: 50px;
+    left: 200px;
+  }
+  #image63{
+    top: 50px;
+    left: 300px;
+  }
+  #image64{
+    top: 50px;
+    left: 400px;
+  }
+
+  
+  #image69{
+    display: none;
+    top: 50px;
+    left: 400px;
+  }
+  #image70{
+    display: none;
+    top: 50px;
+    left: 400px;
+  }
+  #image71{
+    display: none;
+    top: 50px;
+    left: 400px;
+  }
+  #image72{
+    display: none;
+    top: 50px;
+    left: 400px;
+  }
+  #image73{
+    display: none;
+    top: 50px;
+    left: 400px;
+  }
+  #image74{
+    display: none;
+    top: 50px;
+    left: 400px;
+  }
+  #image75{
+    display: none;
+    top: 50px;
+    left: 400px;
+  }
+
+  #image76{
+    top: 50px;
+    left: 50px;
+  }
+
+  #image77{
+    display: none;
+    top: 200px;
+    left: 100px;
+  }
+
+  #image78{
+    display: none;
+    top: 300px;
+    left: 250px;
+  }
+
+  #image79{
+    display: none;
+    top: 500px;
+    left: 50px;
+  }
+
+  #image80{
+    display: none;
+    top: 600px;
+    left: 400px;
+  }
+  #image81{
+    display: none;
+    top: 150px;
+    left: 800px;
+  }
+ 
   .bigcont{
     position: absolute;
     background-color: black;
