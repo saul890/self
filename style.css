@@ -3,6 +3,16 @@ body{
   width: 3660px;
 }
 
+#family-body{
+  height: 2000px;
+  width: 5000px;
+}
+
+#school-body{
+  height: 1000px;
+  width: 1500px;
+}
+
 
 .container{
     position: absolute;
@@ -424,7 +434,216 @@ x
     top: 150px;
     left: 800px;
   }
- 
+  
+  #image82{
+    top: 180px;
+    left: 800px;
+  }
+  #image83{
+    display: none;
+    top: 10px;
+    left: 100px;
+  }
+  #image84{
+    display: none;
+    top: 100px;
+    left: 600px;
+  }
+  #image85{
+    display: none;
+    top: 400px;
+    left: 400px;
+  }
+
+  #image87{
+    display: none;
+    top: 500px;
+    left: 800px;
+  }
+  #image88{
+    display: none;
+    top: 600px;
+    left: 650px;
+  }
+  #image89{
+    display: none;
+    top: 250px;
+    left: 1070px;
+  }
+  #image90{
+    display: none;
+    top: 450px;
+    left: 100px;
+  }
+  #image91{
+    display: none;
+    top: 700px;
+    left: 50px;
+  }
+  #image92{
+    display: none;
+    top: 400px;
+    left: 1000px;
+  }
+  #image93{
+    display: none;
+    top: 700px;
+    left: 1200px;
+  }
+  #image94{
+    display: none;
+    top: 650px;
+    left: 300px;
+  }
+
+  #image96{
+    display: none;
+    top: 50px;
+    left: 900px;
+  }
+  #image97{
+    display: none;
+    top: 250px;
+    left: 900px;
+  }
+  #image98{
+    display: none;
+    top: 400px;
+    left: 600px;
+  }
+  #image99{
+    display: none;
+    top: 200px;
+    left: 10px;
+  }
+
+  #image100{
+    display: none;
+    top: 20px;
+    left: 470px;
+  }
+  #image101{
+    display: none;
+    top: 150px;
+    left: 200px;
+  }
+  #image102{
+    display: none;
+    top: 150px;
+    left: 750px;
+  }
+  #image103{
+    display: none;
+    top: 750px;
+    left: 800px;
+  }
+  #image104{
+    display: none;
+    top: 50px;
+    left: 1200px;
+  }
+  
+  #image86{
+    top: 50px;
+    left: -50px;
+  }
+
+
+
+
+  #image105{
+    top: 50px;
+    left: -50px;
+  }
+  #image106{
+    top: 750px;
+    left: 20px;
+  }
+  #image107{
+    top: 1580px;
+    left: -10px;
+  }
+  
+  #image108{
+    top: 850px;
+    left: 750px;
+  }
+  #image109{
+    top: 130px;
+    left: 700px;
+  }
+  #image110{
+    top: 1550px;
+    left: 750px;
+  }
+
+  #image111{
+    top: 50px;
+    left: 1400px;
+  }
+
+  #image112{
+    top: 750px;
+    left: 1500px;
+  }
+
+  #image113{
+    top: 1450px;
+    left: 1450px;
+  }
+
+  #image114{
+    top: 50px;
+    left: 2150px;
+  }
+  #image115{
+    top: 780px;
+    left: 2200px;
+  }
+  #image116{
+    top: 1550px;
+    left: 2200px;
+  }
+
+  #image117{
+    top: 50px;
+    left: 2950px;
+  }
+  #image118{
+    top: 750px;
+    left: 2900px;
+  }
+  #image119{
+    top: 1500px;
+    left: 2960px;
+  }
+  #image120{
+    top: 80px;
+    left: 3600px;
+  }
+
+  #image121{
+    top: 790px;
+    left: 3550px;
+  }
+  #image122{
+    top: 1550px;
+    left: 3670px;
+  }
+
+  #image123{
+    top: 50px;
+    left: 4300px;
+  }
+  #image124{
+    top: 750px;
+    left: 4250px;
+  }
+  #image125{
+    top: 1480px;
+    left: 4350px;
+  }
+
   .bigcont{
     position: absolute;
     background-color: black;
