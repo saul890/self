@@ -31,8 +31,12 @@ body{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-
 }
+#party-body{
+  width: 100%;
+  height: 6600px;
+}
+
 
 .container{
     position: absolute;
@@ -40,13 +44,30 @@ body{
     height: 100px;
     background-color: black;
   }
+.container:hover{
+  cursor: pointer;
+}
+
   .containerOther{
     position: relative;
     width: 300px;
     height: 300px;
     background-color: black;
   }
-  
+
+  .containerParty{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    left: 50%;
+    margin-left: -150px;
+    
+  }
+.containerParty:hover{
+  cursor: pointer;
+}
+
   .image{
       width: 100px;
     transition: 0.1s;
@@ -256,7 +277,7 @@ body{
   #image39{
     display: none;
     top: 400px;
-    left: 3560px;
+    left: 3660px;
   }
 
   #image40{
@@ -669,7 +690,72 @@ body{
     left: 4350px;
   }
 
-
+  #image127{
+    display: block;
+  }
+  #image128{
+    display: none;
+  }
+  #image129{
+    display: none;
+  }
+  #image130{
+    display: none;
+  }
+  #image131{
+    display: none;
+  }
+  #image132{
+    display: none;
+  }
+  #image133{
+    display: none;
+  }
+  #image134{
+    display: none;
+  }
+  #image135{
+    display: none;
+  }
+  #image136{
+    display: none;
+  }
+  #image137{
+    display: none;
+  }
+  #image138{
+    display: none;
+  }
+  #image139{
+    display: none;
+  }
+  #image140{
+    display: none;
+  }
+  #image141{
+    display: none;
+  }
+  #image142{
+    display: none;
+  }
+  #image143{
+    display: none;
+  }
+  #image144{
+    display: none;
+  }
+  #image145{
+    display: none;
+  }
+  #image146{
+    display: none;
+  }
+  #image147{
+    display: none;
+  }
+  #image148{
+    display: none;
+  }
 
   .bigcont{
     position: absolute;
@@ -704,4 +790,18 @@ body{
   }
   .biggercont:hover{
     cursor: pointer;
+  }
+
+  .familyImages{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+  }
+
+  .familyImages:hover{
+    cursor: pointer;
+  }
+
+  .familyImages::after{
+    cursor: none;
   }

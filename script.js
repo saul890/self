@@ -116,9 +116,19 @@ imageFour.addEventListener('click', function onClick(event) {
   image39.style.display = 'block';
 });
 
+
 image8.addEventListener('click', function onClick(event) {
   image40.style.display = 'block';
 });
+
+image23.addEventListener('click', function onClick(event) {
+  image40.style.display = 'block';
+});
+
+image21.addEventListener('click', function onClick(event) {
+  image40.style.display = 'block';
+});
+
 image17.addEventListener('click', function onClick(event) {
   image40.style.display = 'block';
 });
